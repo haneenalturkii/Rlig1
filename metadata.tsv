@@ -1,0 +1,19 @@
+sample_id	stress	group	runCol
+Q2305_FS_230428_NoRNA_unst_Beads_1_002	No stress	Bead control	Bead_control_1
+Q2305_FS_230428_NoRNA_unst_Beads_2_005	No stress	Bead control	Bead_control_2
+Q2305_FS_230428_NoRNA_unst_Beads_3_008	No stress	Bead control	Bead_control_3
+Q2305_FS_230428_NoRNA_unst_K57A_1_011	No stress	K57A-Rlig1	K57A-Rlig1_1
+Q2305_FS_230428_NoRNA_unst_K57A_2_015	No stress	K57A-Rlig1	K57A-Rlig1_2
+Q2305_FS_230428_NoRNA_unst_K57A_3_018	No stress	K57A-Rlig1	K57A-Rlig1_3
+Q2305_FS_230428_NoRNA_unst_AMP_1_021	No stress	AMP-Rlig1	AMP-Rlig1_1
+Q2305_FS_230428_NoRNA_unst_AMP_2_024	No stress	AMP-Rlig1	AMP-Rlig1_2
+Q2305_FS_230428_NoRNA_unst_AMP_3_028	No stress	AMP-Rlig1	AMP-Rlig1_3
+Q2305_FS_230428_NoRNA_str_Beads_1_031	Stressed (40 µM menadione, 1 h)	Bead control	Bead_control_1
+Q2305_FS_230428_NoRNA_str_Beads_2_034	Stressed (40 µM menadione, 1 h)	Bead control	Bead_control_2
+Q2305_FS_230428_NoRNA_str_Beads_3_038	Stressed (40 µM menadione, 1 h)	Bead control	Bead_control_3
+Q2305_FS_230428_NoRNA_str_K57A_1_041	Stressed (40 µM menadione, 1 h)	K57A-Rlig1	K57A-Rlig1_1
+Q2305_FS_230428_NoRNA_str_K57A_2_044	Stressed (40 µM menadione, 1 h)	K57A-Rlig1	K57A-Rlig1_2
+Q2305_FS_230428_NoRNA_str_K57A_3_048	Stressed (40 µM menadione, 1 h)	K57A-Rlig1	K57A-Rlig1_3
+Q2305_FS_230428_NoRNA_str_AMP_1_052	Stressed (40 µM menadione, 1 h)	AMP-Rlig1	AMP-Rlig1_1
+Q2305_FS_230428_NoRNA_str_AMP_2_055	Stressed (40 µM menadione, 1 h)	AMP-Rlig1	AMP-Rlig1_2
+Q2305_FS_230428_NoRNA_str_AMP_3_058	Stressed (40 µM menadione, 1 h)	AMP-Rlig1	AMP-Rlig1_3
