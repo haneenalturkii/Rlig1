@@ -1,6 +1,3 @@
-# Rlig1
-Everything I used/did in The tRNA-Repair Machinery Co-enriches with Rlig1: Extending a Two-Enzyme Observation to the Broader Pathway
-
 # Rlig1 tRNA-Repair Co-Enrichment Reanalysis
 
 An independent, reproducible R/Bioconductor reanalysis of the human RNA ligase **Rlig1 (C12orf29)** affinity-enrichment mass-spectrometry (AE-MS) dataset from **Stumpf et al. (2026, *Nucleic Acids Research*)**.
